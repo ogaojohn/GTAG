@@ -1,0 +1,2522 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "25d55ad283aa400af464c76d713c07ad",
+    "loginToken": "7d6590d39c844c2bae891861a8824d61",
+    "logs": [
+      {
+        "time": "2022-05-07T05:36:49.246Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.13\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T05:45:11.144Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.13\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T05:51:26.215Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected openjdk version \"11.0.13\" 2. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T20:15:59.183Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"1.8.0_333\"\r\nJ. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T20:54:17.485Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"1.8.0_333\"\r\nJ. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T21:02:22.863Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"1.8.0_333\"\r\nJ. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T21:04:29.330Z",
+        "type": "ERROR",
+        "message": "Build Failed - Wrong Java Version Installed. Detected java version \"1.8.0_333\"\r\nJ. Please use Java 1.8.0"
+      },
+      {
+        "time": "2022-05-07T21:07:18.239Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
+      },
+      {
+        "time": "2022-05-07T21:08:47.511Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
+      },
+      {
+        "time": "2022-05-07T21:09:24.811Z",
+        "type": "ERROR",
+        "message": "Build Failed - Java Not Installed"
+      },
+      {
+        "time": "2022-05-07T21:12:52.074Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-07T21:15:07.480Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-07T21:16:30.126Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:16:30.135Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-07T21:16:30.136Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-07T21:16:37.957Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:16:45.033Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:16:48.110Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:16:55.329Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:16:56.519Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Contacts Updated - 740 New Contacts Added"
+      },
+      {
+        "time": "2022-05-07T21:17:19.267Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:17:31.800Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:17:31.835Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 WiFi Updated - 1 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-05-07T21:17:42.873Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:17:42.979Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Apps Updated"
+      },
+      {
+        "time": "2022-05-07T21:18:10.635Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:10.653Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T21:18:20.705Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:20.746Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:20.751Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-07T21:18:26.802Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:26.814Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T21:18:32.019Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:32.037Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T21:18:33.613Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:33.628Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T21:18:49.597Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:18:49.611Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T21:25:03.266Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-07T21:25:55.362Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-07T21:36:47.763Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-07T21:36:47.765Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Running Queued Commands"
+      },
+      {
+        "time": "2022-05-07T21:36:47.766Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:36:47.771Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:36:47.776Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T21:36:47.822Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-07T21:36:47.823Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-07T21:36:48.628Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-05-07T21:36:48.636Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T23:07:24.342Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-07T23:07:24.344Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Running Queued Commands"
+      },
+      {
+        "time": "2022-05-07T23:07:24.346Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:08:31.582Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-07T23:08:31.584Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Running Queued Commands"
+      },
+      {
+        "time": "2022-05-07T23:08:31.586Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:08:31.608Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Permissions Updated"
+      },
+      {
+        "time": "2022-05-07T23:12:51.660Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:12:51.673Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-07T23:12:51.674Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-07T23:14:38.320Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:14:38.794Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Apps Updated"
+      },
+      {
+        "time": "2022-05-07T23:15:41.520Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:15:42.227Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-07T23:15:43.117Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-07T23:16:00.493Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:16:00.512Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-07T23:22:23.359Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-05-07T23:25:43.119Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-07T23:25:43.122Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-07T23:25:43.126Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-07T23:25:43.127Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-07T23:29:00.996Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-07T23:29:35.907Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-07T23:32:15.250Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-08T05:56:08.520Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-08T05:56:08.522Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Running Queued Commands"
+      },
+      {
+        "time": "2022-05-08T05:56:08.525Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T05:56:09.011Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T05:57:15.090Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-08T06:06:19.498Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:06:19.507Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:06:19.509Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:07:15.096Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T06:07:15.098Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:07:15.103Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:07:15.104Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:07:44.825Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:07:44.833Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:07:44.835Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:09:08.502Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-05-08T06:14:21.167Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:14:21.184Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:14:28.147Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:14:28.163Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:14:41.660Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:14:41.672Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:14:45.424Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:14:45.439Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:14:55.309Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:14:55.320Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:14:57.804Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:14:57.818Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:17:15.096Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T06:17:15.098Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:17:15.104Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:17:15.105Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:27:15.096Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T06:27:15.098Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:27:15.103Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:27:15.104Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:37:15.097Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T06:37:15.099Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:37:15.111Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:37:15.112Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:39:55.626Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:39:55.639Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T06:47:15.098Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T06:47:15.100Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:47:15.107Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:47:15.110Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T06:55:15.820Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:55:28.243Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:55:30.358Z",
+        "type": "INFO",
+        "message": "Recieving sound1002547360.mp3 from 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:56:00.777Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:56:05.844Z",
+        "type": "INFO",
+        "message": "Recieving sound1041470455.mp3 from 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:57:15.099Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T06:57:15.100Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T06:57:15.106Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T06:57:15.108Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T09:02:37.063Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-08T09:03:03.888Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-08T09:04:52.414Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:04:52.562Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Call Log Updated - 2 New Calls"
+      },
+      {
+        "time": "2022-05-08T09:04:59.065Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:06:06.921Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:06:06.945Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:06:12.841Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:06:12.957Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:08.076Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:08.091Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:19.532Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:19.547Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:24.679Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:24.691Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:28.624Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:28.864Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:28.872Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-08T09:07:32.258Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:32.348Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:32.353Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-08T09:07:35.563Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:35.577Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:38.716Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:38.732Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:42.638Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:43.092Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:43.102Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-08T09:07:44.198Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:44.497Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:44.504Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-08T09:07:45.981Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:47.109Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:47.130Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-08T09:07:47.775Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:47.844Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:07:50.676Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:07:50.697Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:08:03.237Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:08:03.252Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-08T09:13:03.891Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T09:13:03.893Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:13:03.907Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T09:13:03.908Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T09:23:03.892Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T09:23:03.894Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:23:03.901Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T09:23:03.903Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T09:33:03.892Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T09:33:03.894Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:33:03.901Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T09:33:03.903Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T09:43:03.892Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T09:43:03.895Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:43:03.901Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T09:43:03.902Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T09:53:03.891Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T09:53:03.893Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T09:53:03.899Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T09:53:03.901Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-08T10:03:03.891Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-08T10:03:03.893Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-08T10:03:03.899Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-08T10:03:03.901Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T14:02:04.257Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-09T14:02:04.269Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-05-09T14:02:34.273Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-09T14:05:18.232Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T14:05:28.529Z",
+        "type": "INFO",
+        "message": "Requested 0xMI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T14:05:33.619Z",
+        "type": "INFO",
+        "message": "Recieving sound2141529516.mp3 from 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T14:06:33.934Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T14:06:33.953Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T14:06:33.955Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T14:12:34.276Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-09T14:12:34.278Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T14:12:34.283Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T14:12:34.285Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T14:22:34.277Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-09T14:22:34.280Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T14:22:34.292Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T14:22:34.295Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T14:26:49.161Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-09T14:53:53.416Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-09T14:54:28.080Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-09T15:17:05.524Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-09T15:17:05.526Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Running Queued Commands"
+      },
+      {
+        "time": "2022-05-09T15:17:05.528Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:17:05.615Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T15:17:05.617Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T15:19:30.406Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:19:30.493Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2022-05-09T15:19:32.470Z",
+        "type": "INFO",
+        "message": "Requested 0xCL From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:19:32.480Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Call Log Updated - 0 New Calls"
+      },
+      {
+        "time": "2022-05-09T15:20:00.112Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:22:42.230Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:22:42.241Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T15:22:42.243Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T15:23:40.971Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 ClipBoard Recieved"
+      },
+      {
+        "time": "2022-05-09T15:24:57.582Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:24:57.609Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-09T15:25:05.972Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:25:05.985Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-09T15:25:08.810Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:25:08.827Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-09T15:25:12.291Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:25:12.387Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-05-09T15:25:16.783Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:25:16.904Z",
+        "type": "INFO",
+        "message": "Recieving File From17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:25:16.915Z",
+        "type": "SUCCESS",
+        "message": "File From17e9ffb2cc4ca7c4 Saved"
+      },
+      {
+        "time": "2022-05-09T15:27:05.534Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-09T15:27:05.535Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:27:05.541Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T15:27:05.543Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T15:28:45.450Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:28:46.868Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-05-09T15:35:23.894Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:35:23.907Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 SENT SMS"
+      },
+      {
+        "time": "2022-05-09T15:37:05.534Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-09T15:37:05.537Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T15:37:05.543Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-09T15:37:05.544Z",
+        "type": "ERROR",
+        "message": "17e9ffb2cc4ca7c4 GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-09T15:38:36.837Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-09T16:18:24.728Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Connected"
+      },
+      {
+        "time": "2022-05-09T16:18:24.730Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Running Queued Commands"
+      },
+      {
+        "time": "2022-05-09T16:18:24.732Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 17e9ffb2cc4ca7c4"
+      },
+      {
+        "time": "2022-05-09T16:18:25.471Z",
+        "type": "SUCCESS",
+        "message": "17e9ffb2cc4ca7c4 Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-05-09T16:27:56.191Z",
+        "type": "INFO",
+        "message": "17e9ffb2cc4ca7c4 Disconnected"
+      },
+      {
+        "time": "2022-05-12T12:00:27.268Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-12T12:04:18.607Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Connected"
+      },
+      {
+        "time": "2022-05-12T12:12:42.041Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Disconnected"
+      },
+      {
+        "time": "2022-05-12T12:24:32.589Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-12T12:53:19.405Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-12T14:03:30.297Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-05-12T14:05:51.525Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Connected"
+      },
+      {
+        "time": "2022-05-12T14:05:51.529Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Running Queued Commands"
+      },
+      {
+        "time": "2022-05-12T14:05:51.531Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:05:51.566Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:05:51.568Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:07:49.687Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:07:49.696Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:07:49.698Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:13:12.419Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:13:14.529Z",
+        "type": "SUCCESS",
+        "message": "cc5a31e753648e1c Contacts Updated - 747 New Contacts Added"
+      },
+      {
+        "time": "2022-05-12T14:13:24.113Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:13:24.228Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:13:24.242Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:13:24.244Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:15:19.441Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:15:19.452Z",
+        "type": "SUCCESS",
+        "message": "cc5a31e753648e1c Permissions Updated"
+      },
+      {
+        "time": "2022-05-12T14:18:24.113Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:18:24.122Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:18:24.130Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:18:24.131Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:23:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:23:24.117Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:23:24.127Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:23:24.129Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:28:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:28:24.118Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:28:24.124Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:28:24.126Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:33:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:33:24.117Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:33:24.126Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:33:24.128Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:38:24.114Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:38:24.120Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:38:24.125Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:38:24.127Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:43:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:43:24.117Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:43:24.125Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:43:24.128Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:48:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:48:24.117Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:48:24.123Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:48:24.125Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:53:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:53:24.117Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:53:24.123Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:53:24.125Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T14:58:24.116Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T14:58:24.118Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T14:58:24.129Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T14:58:24.131Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:03:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:03:24.117Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:03:24.123Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:03:24.125Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:08:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:08:24.118Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:08:24.126Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:08:24.128Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:13:24.115Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:13:24.118Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:13:24.127Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:13:24.129Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:18:24.119Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:18:24.121Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:18:24.127Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:18:24.129Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:23:24.119Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:23:24.122Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:23:24.128Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:23:24.130Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:28:24.119Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:28:24.122Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:28:24.128Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:28:24.129Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:33:24.119Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:33:24.122Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:33:24.130Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:33:24.132Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:38:24.120Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:38:24.123Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:38:24.130Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:38:24.132Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:43:24.120Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:43:24.123Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:43:24.130Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:43:24.132Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:48:24.121Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:48:24.123Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:48:24.133Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:48:24.135Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:53:24.122Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:53:24.125Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:53:24.132Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:53:24.134Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T15:58:24.123Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T15:58:24.126Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T15:58:24.133Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T15:58:24.135Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:03:24.124Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:03:24.127Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:03:24.150Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:03:24.152Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:08:24.125Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:08:24.127Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:08:24.133Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:08:24.135Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:13:24.125Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:13:24.127Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:13:24.136Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:13:24.138Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:18:24.127Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:18:24.131Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:18:24.137Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:18:24.141Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:23:24.129Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:23:24.131Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:23:24.137Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:23:24.140Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:28:24.130Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:28:24.134Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:28:24.143Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:28:24.145Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:33:24.137Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:33:24.141Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:33:24.151Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:33:24.155Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:38:24.137Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:38:24.141Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:38:24.168Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:38:24.172Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:43:24.137Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:43:24.143Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:43:24.153Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:43:24.156Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:48:24.138Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:48:24.141Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:48:24.152Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:48:24.155Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:53:24.137Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:53:24.140Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:53:24.149Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:53:24.152Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T16:58:24.139Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T16:58:24.142Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T16:58:24.150Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T16:58:24.153Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:03:24.138Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:03:24.142Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:03:24.149Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:03:24.152Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:08:24.140Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:08:24.143Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:08:24.150Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:08:24.153Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:13:24.140Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:13:24.144Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:13:24.151Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:13:24.154Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:18:24.140Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:18:24.144Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:18:24.153Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:18:24.156Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:23:24.142Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:23:24.145Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:23:24.153Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:23:24.157Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:28:24.142Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:28:24.147Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:28:24.156Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:28:24.159Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:33:24.141Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:33:24.146Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:33:24.182Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:33:24.186Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:38:24.142Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:38:24.145Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:38:24.153Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:38:24.158Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:43:24.142Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:43:24.146Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:43:24.154Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:43:24.156Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:48:24.144Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:48:24.147Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:48:24.155Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:48:24.158Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:53:24.143Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:53:24.146Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:53:24.157Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:53:24.160Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T17:58:24.143Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T17:58:24.148Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T17:58:24.157Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T17:58:24.161Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T18:03:24.144Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T18:03:24.148Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T18:03:24.156Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T18:03:24.159Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T18:08:24.144Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T18:08:24.148Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T18:08:24.156Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T18:08:24.159Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T18:13:24.144Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T18:13:24.148Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T18:13:24.160Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T18:13:24.164Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T18:18:24.144Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T18:18:24.148Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T18:18:24.168Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T18:18:24.171Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T18:23:24.145Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T18:23:24.148Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T18:23:24.158Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T18:23:24.161Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T18:55:36.071Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Disconnected"
+      },
+      {
+        "time": "2022-05-12T18:55:49.556Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Connected"
+      },
+      {
+        "time": "2022-05-12T18:55:49.560Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Running Queued Commands"
+      },
+      {
+        "time": "2022-05-12T18:55:49.563Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T18:56:01.250Z",
+        "type": "SUCCESS",
+        "message": "cc5a31e753648e1c Contacts Updated - 0 New Contacts Added"
+      },
+      {
+        "time": "2022-05-12T19:00:59.364Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T19:00:59.368Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T19:00:59.377Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T19:00:59.380Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T19:05:59.373Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T19:05:59.379Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T19:05:59.434Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T19:05:59.437Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T19:10:59.373Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c POLL COMMAND - GPS"
+      },
+      {
+        "time": "2022-05-12T19:10:59.377Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From cc5a31e753648e1c"
+      },
+      {
+        "time": "2022-05-12T19:10:59.386Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS Recieved No Data"
+      },
+      {
+        "time": "2022-05-12T19:10:59.389Z",
+        "type": "ERROR",
+        "message": "cc5a31e753648e1c GPS LOCATION SOCKET DATA{}"
+      },
+      {
+        "time": "2022-05-12T19:14:02.848Z",
+        "type": "INFO",
+        "message": "cc5a31e753648e1c Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "17e9ffb2cc4ca7c4",
+      "firstSeen": "2022-05-07T21:15:07.444Z",
+      "lastSeen": "2022-05-09T16:27:56.193Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.0.100",
+        "clientGeo": {},
+        "device": {
+          "model": "G011A",
+          "manufacture": "google",
+          "version": "7.1.2"
+        }
+      }
+    },
+    {
+      "clientID": "cc5a31e753648e1c",
+      "firstSeen": "2022-05-12T12:04:18.543Z",
+      "lastSeen": "2022-05-12T19:14:02.852Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.0.100",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N975F",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    }
+  ]
+}
