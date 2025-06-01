@@ -1,3 +1,5 @@
+CREATE A FOLDER NAMED (clientData)
+
 Tested in windows Os and digital ocean cloud server and it'working.
 Video on youtube,Hack android and get full backdoor access and management :https://www.youtube.com/watch?v=VoqSMrKTLao
 contant via whatsapp on :https://wa.me/message/FN4EPAOUM2VTJ1
