@@ -77,13 +77,12 @@ In the extracted folder, run these commands
         under admin
             set the username as plain text
             set the password as a LOWERCASE MD5 hash
-/.................................................................../
-hash password here:https://www.onlinewebtoolkit.com/hash-generator
+
+Hash password here:https://www.onlinewebtoolkit.com/hash-generator
 my username is 'user'and password '12345678'
 "admin": {
     "username": "user",
     "password": "25d55ad283aa400af464c76d713c07ad",
-/.................................................................../
 Save the file
 	
         run pm2 restart all
