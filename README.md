@@ -37,6 +37,15 @@ Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that don't
         Debian, Ubuntu, Etc
         Ubuntu chroot
 	
+	pm2 start index.js
+[PM2] Starting /home/deadpc/Desktop/all/GTAG-master/index.js in fork_mode (1 instance)
+[PM2] Done.
+┌────┬────────────────────┬──────────┬──────┬───────────┬──────────┬──────────┐
+│ id │ name               │ mode     │ ↺    │ status    │ cpu      │ memory   │
+├────┼────────────────────┼──────────┼──────┼───────────┼──────────┼──────────┤
+│ 0  │ index              │ fork     │ 0    │ online    │ 0%       │ 52.1mb   │
+└────┴────────────────────┴──────────┴──────┴───────────┴──────────┴──────────┘
+
             sudo apt install wget curl git npm nano nodejs openjdk-8-jdk openjdk-8-jre
 	    
 	    source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)
