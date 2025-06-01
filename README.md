@@ -43,7 +43,8 @@ Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that don't
             sudo apt install wget curl git npm nano nodejs openjdk-8-jdk openjdk-8-jre
 or	    
 
-	     sudo apt-get install openjdk-8-jre
+	     sudo apt-get install nvidia-openjdk-8-jre
+
 then
 
 	    source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)
