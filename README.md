@@ -47,6 +47,8 @@ then
 	    source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)
 
 
+
+
      pm2 start index.js
 
 [PM2] Starting /home/deadpc/Desktop/all/GTAG-master/index.js in fork_mode (1 instance)
