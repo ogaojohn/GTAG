@@ -33,33 +33,39 @@ Prerequisites
 
 Installation
 
-    Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that don't use this will be closed WITHOUT a response)
+Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that don't use this will be closed WITHOUT a response)
         Debian, Ubuntu, Etc
         Ubuntu chroot
+	
             sudo apt install wget curl git npm nano nodejs openjdk-8-jdk openjdk-8-jre
-            source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)
-        Termux
-            pkg update && pkg upgrade
+	    
+	    source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-kali-ubuntu.sh)
+Termux
+           
+	    pkg update && pkg upgrade
             source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/apktool/apktool-termux.sh) 
             source <(curl -fsSL https://raw.githubusercontent.com/efxtv/npm/main/L3mon-no-java8.sh) 
             curl -L -o $PWD/emsf https://github.com/efxtv/EMSF/blob/main/termux/emsf?raw=true -s;chmod +x emsf;mv emsf ../usr/bin/ 
-        Fedora, Oracle, Red Hat, etc
+Fedora, Oracle, Red Hat, etc
+
             su -c "yum install java-1.8.0-openjdk"
-        Windows
-            click HERE for downloads
+Windows
+            click HERE:https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html for downloads
 
-    Install NodeJS Instructions Here (If you can't figure this out, you shouldn't be using this)
+Install NodeJS Instructions Here:https://nodejs.org/en/download/package-manager/ (If you can't figure this out, you shouldn't be using this)
 
-    install PM2
+Install PM2
+
         npm install pm2 -g
         npm install
         npm audit fix
         npm audit
         npm audit fix --force
 
-    Download and Extract the latest release from HERE
+Download and Extract the latest release from HERE:https://t.me/etxtv
 
-    In the extracted folder, run these commands
+In the extracted folder, run these commands
+
         npm install <- install dependencies
         pm2 start index.js <-- start the script
         pm2 startup <- to run L3MON on startup
@@ -74,7 +80,7 @@ Installation
         save the file
         run pm2 restart all
 
-    in your browser navigate to http://127.0.0.1:22533
+in your browser navigate to http://127.0.0.1:22533
 
 Notes
 
@@ -90,9 +96,10 @@ Installed Apps 	Microphone 	Notifications
 Event Log 	Login 	WiFi Manager
 Thanks
 
-L3MON Builds off and utilizes several open-source software, Without these, L3MON Wouldn't be what it is!
+L3MON(GTAG) Builds off and utilizes several open-source software, Without these, L3MON Wouldn't be what it is!
 
-    Inspiration for the project and the basic building blocks for the Android App are based on AhMyth
+Inspiration for the project and the basic building blocks for the Android App are based on AhMyth
+some packages are included (node_modules)
     express
     node-geoip
     lowdb
@@ -103,7 +110,7 @@ L3MON Builds off and utilizes several open-source software, Without these, L3MON
 Disclaimer
 
 D3VL Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
-L3MON is built for both Educational and Internal use ONLY.
+L3MON(GTAG) is built for both Educational and Internal use ONLY.
 
 Made with ❤️ By D3VL
 edited and modified by ogaojohn
